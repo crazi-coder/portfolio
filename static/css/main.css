@@ -1343,7 +1343,7 @@ ar
  ----------------------------------- */
 
 #funfacts {
-    background: url('../../images/fun-facts-bg.jpg') no-repeat scroll center center / cover;
+    background: url('../../static/images/fun-facts-bg.jpg') no-repeat scroll center center / cover;
 }
 
 #funfacts .sec-inner {
